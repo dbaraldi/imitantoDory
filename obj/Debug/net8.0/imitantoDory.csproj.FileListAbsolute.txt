@@ -1,0 +1,14 @@
+C:\Users\user\Documents\imitantoDory\bin\Debug\net8.0\imitantoDory.exe
+C:\Users\user\Documents\imitantoDory\bin\Debug\net8.0\imitantoDory.deps.json
+C:\Users\user\Documents\imitantoDory\bin\Debug\net8.0\imitantoDory.runtimeconfig.json
+C:\Users\user\Documents\imitantoDory\bin\Debug\net8.0\imitantoDory.dll
+C:\Users\user\Documents\imitantoDory\bin\Debug\net8.0\imitantoDory.pdb
+C:\Users\user\Documents\imitantoDory\obj\Debug\net8.0\imitantoDory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\imitantoDory\obj\Debug\net8.0\imitantoDory.AssemblyInfoInputs.cache
+C:\Users\user\Documents\imitantoDory\obj\Debug\net8.0\imitantoDory.AssemblyInfo.cs
+C:\Users\user\Documents\imitantoDory\obj\Debug\net8.0\imitantoDory.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\imitantoDory\obj\Debug\net8.0\imitantoDory.dll
+C:\Users\user\Documents\imitantoDory\obj\Debug\net8.0\refint\imitantoDory.dll
+C:\Users\user\Documents\imitantoDory\obj\Debug\net8.0\imitantoDory.pdb
+C:\Users\user\Documents\imitantoDory\obj\Debug\net8.0\imitantoDory.genruntimeconfig.cache
+C:\Users\user\Documents\imitantoDory\obj\Debug\net8.0\ref\imitantoDory.dll
